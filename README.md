@@ -11,3 +11,5 @@ Join via https://zoom.us/j/313213335
 ## Thursday, March 19
 * 15:00-15:30: Employer introduction: AGSOTEC (hosted by Joshua)
 
+## Friday, March 20
+* 11:15-12:00 Intro to UX (hosted by Mehmet)
