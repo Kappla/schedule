@@ -13,3 +13,6 @@ Join via https://zoom.us/j/313213335
 
 ## Friday, March 20
 * 11:15-12:00 Intro to UX (hosted by Mehmet)
+
+## Wednesday, March 25
+* 14:30-15:15: Product Ownership (hosted by Daniel)
