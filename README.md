@@ -1,5 +1,5 @@
 # Dev.jetzt 01/2020 - Virtual Session Schedule
-Join via https://zoom.us/j/313213335
+Join via https://zoom.us/j/313213335. All end times are estimates. 
 
 `More sessions to be announced.`
 
