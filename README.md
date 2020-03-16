@@ -19,3 +19,6 @@ Join via https://zoom.us/j/313213335. All end times are estimates.
 
 ## Wednesday, March 25
 * 14:30-15:15: Product Ownership (hosted by Daniel)
+
+## Thursday, March 26
+* 14:00-16:00: MacBook returns at mantro office
