@@ -10,7 +10,7 @@ Join via https://zoom.us/j/313213335. All plans subject to change.
 ## Tuesday, March 17
 * 10:00-10:30: React Exercise Review and Q&A (hosted by José)
 * 10:30-12:00: Intro to Postgres (hosted by Pascal)
-* 15:00-16:30: Introduction to Git (hosted by Ben)
+* 15:00-16:30: Introduction to Git (hosted by Sebastian)
 
 ## Wednesday, March 18
 * 10:00-10:30: Git Exercise Review and Q&A (hosted by Sebastian)
