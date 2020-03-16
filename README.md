@@ -18,7 +18,7 @@ Join via https://zoom.us/j/313213335. All plans subject to change.
 * 14:30-16:30: Introduction to NestJS (or "How we brought `cannot read property of undefined` to the backend", hosted by Sebastian)
 
 ## Thursday, March 19
-* 10:00-10:30: NestJS Exercise Review & Q&A (hosted by Sebastian)
+* 10:00-11:00: NestJS Exercise Review & Q&A (hosted by Sebastian)
 * 15:00-15:30: Employer introduction: AGSOTEC (hosted by Joshua) 🔒
 
 ## Friday, March 20
