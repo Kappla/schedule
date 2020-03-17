@@ -11,8 +11,8 @@ Join via https://zoom.us/j/313213335. All plans subject to change.
 * 10:00-10:30: Meta (hosted by José and Joshua) ✅
 * 10:30-11:00: React Exercise Review and Q&A (hosted by José) ✅
 * 11:00-12:00: Setting up Postgres (hosted by Pascal) ✅
-* 13:00-14:30: Intro to Postgres (hosted by Pascal)
-* 15:00-16:30: Introduction to Git (hosted by Sebastian or Ben)
+* 13:00-14:30: Intro to Postgres (hosted by Pascal) ✅
+* 15:00-16:30: Introduction to Git (hosted by Sebastian) ✅
 
 ## Wednesday, March 18
 * 10:00-10:30: Git Exercise Review and Q&A (hosted by Sebastian)
