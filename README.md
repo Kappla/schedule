@@ -4,13 +4,13 @@ Join via https://zoom.us/j/313213335. All plans subject to change.
 `More sessions to be announced.`
 
 ## Monday, March 16
-* 10:00-12:00: Meta, React Props, Review, Callbacks, State (hosted by José and Joshua)
-* 15:00-16:30: React Exercises Review (hosted by José)
+* 10:00-12:00: Meta, React Props, Review, Callbacks, State (hosted by José and Joshua) ✅
+* 15:00-16:30: React Exercises Review (hosted by José) ✅
 
 ## Tuesday, March 17
-* 10:00-10:30: Feedback (hosted by José and Joshua)
-* 10:30-11:00: React Exercise Review and Q&A (hosted by José)
-* 11:00-12:00: Setting up Postgres (hosted by Pascal)
+* 10:00-10:30: Meta (hosted by José and Joshua) ✅
+* 10:30-11:00: React Exercise Review and Q&A (hosted by José) ✅
+* 11:00-12:00: Setting up Postgres (hosted by Pascal) ✅
 * 13:00-14:30: Intro to Postgres (hosted by Pascal)
 * 15:00-16:30: Introduction to Git (hosted by Sebastian or Ben)
 
