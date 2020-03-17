@@ -18,7 +18,7 @@ Join via https://zoom.us/j/313213335. All plans subject to change.
 * 10:00-10:30: Git Exercise Review and Q&A (hosted by Sebastian)
 * 10:30-12:00: Next steps in Postgres (hosted by Pascal)
 * 14:00-15:30: Introduction to TypeORM (hosted by José)
-* 15:45-17:00: React Q&A (hosted by José and Ben) 
+* 15:45-17:00: React Q&A (for those who want to join, hosted by José and/or Ben) 
 
 ## Thursday, March 19
 * 10:00-11:30: Introduction to NestJS (or "How we brought `cannot read property of undefined` to the backend", hosted by Sebastian)
