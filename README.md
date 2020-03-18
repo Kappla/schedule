@@ -63,3 +63,5 @@ Join via https://zoom.us/j/313213335. All plans subject to change.
 * Employer introduction & Q&A: eXXcellent solutions
 * Employer introduction & Q&A: KPS
 * Employer Q&A: MaibornWolff
+* Advanced Shell (hosted by Ben)
+* Data Protection (hosted by Joshua)
