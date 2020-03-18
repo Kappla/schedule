@@ -46,10 +46,11 @@ Join via https://zoom.us/j/313213335. All plans subject to change.
 * 13:30-15:00 Tech Session (tba.) ❓
 
 ## Wednesday, March 25 
-**Last day of regular sessions**
 * 10:00-11:30 Tech Session (tba.) ❓
 * 11:45-13:00 Tech Session (tba.) ❓
 * 14:30-15:15: Product Ownership (hosted by Daniel)
+
+**End of regular sessions**
 
 ## Thursday, March 26
 * 10:00-12:00: Open Zoom Channel (free Q&A, hosts tbd.)
