@@ -1,3 +1,23 @@
+#Dev.jetzt 01/2020 - Presentations first week
+## Welcome
+https://gitpitch.com/dev-jetzt/presentations?p=intro/welcome#/
+## Shell basic
+https://gitpitch.com/dev-jetzt/presentations?p=shell/basic#/
+## Slides “Setup”:
+https://gitpitch.com/dev-jetzt/presentations?p=intro/setup#/
+## JS Basic
+https://gitpitch.com/dev-jetzt/presentations?p=javascript/basic#/
+## All
+https://gitpitch.com/dev-jetzt/presentations?p=git#/
+## Architecture
+https://gitpitch.com/dev-jetzt/presentations?p=architecture/intro#/
+## NPM 
+https://gitpitch.com/dev-jetzt/presentations?p=javascript/npm#/
+## CSS
+https://gitpitch.com/dev-jetzt/presentations?p=react/css#/
+
+
+
 # Dev.jetzt 01/2020 - Virtual Session Schedule
 Join via https://zoom.us/j/313213335. All plans subject to change. 
 
