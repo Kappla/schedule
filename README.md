@@ -33,14 +33,14 @@ Join via https://zoom.us/j/313213335. All plans subject to change.
 
 
 ## Monday, March 23
-* 10:00-10:15: Meta (hosted by Joshua) ❓
+* 10:00-10:15: Meta (hosted by Joshua)
 * 10:15-12:00: Tech Session (tba.) ❓
-* 13:30-15:00: Tech Session (tba.) ❓
+* 14:00-15:30: Tech Session (tba.) ❓
 
 ## Tuesday, March 24
 * 10:00-11:00 Tech Session (tba.) ❓
 * 11:15-12:00 Intro to Hardware Projects (hosted by Hendrik and Hamza)
-* 13:30-15:00 Tech Session (tba.) ❓
+* 14:00-15:30 Tech Session (tba.) ❓
 
 ## Wednesday, March 25 
 * 10:00-11:30 Tech Session (tba.) ❓
