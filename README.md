@@ -39,7 +39,7 @@ Join via https://zoom.us/j/313213335. All plans subject to change.
 * 14:00-15:30: Tech Session (tba.) ❓
 
 ## Tuesday, March 24
-* 10:00-11:00 Tech Session (tba.) ❓
+* 10:00-11:00 Postgres Exercise Review + Q/A (hosted by Pascal)
 * 11:15-12:00 Intro to Hardware Projects (hosted by Hendrik and Hamza)
 * 14:00-15:30 Advanced Shell (hosted by Ben)
 
