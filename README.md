@@ -1,9 +1,6 @@
 # Dev.jetzt 01/2020 - Virtual Session Schedule
 Join via https://zoom.us/j/313213335. All plans subject to change. 
 
-`More sessions to be announced.`
-
-
 ## Monday, March 16
 * 10:00-12:00: Meta, React Props, Review, Callbacks, State (hosted by José and Joshua) ✅
 * 15:00-16:30: React Exercises Review (hosted by José) ✅
