@@ -14,7 +14,7 @@ Join via https://zoom.us/j/313213335. All plans subject to change.
 
 ## Wednesday, March 18
 * 10:00-10:30: Git Exercise Review and Q&A (hosted by Sebastian) ✅
-* 10:30-12:00: Next steps in Postgres (hosted by Pascal)
+* 10:30-12:00: Next steps in Postgres (hosted by Pascal) ✅
 * 14:00-15:30: Introduction to TypeORM (hosted by José)
 * 15:45-17:00: React Q&A (hosted by José and/or Ben) 
 
