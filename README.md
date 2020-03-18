@@ -26,7 +26,7 @@ Join via https://zoom.us/j/313213335. All plans subject to change.
 * 15:30-16:00: The Dev.jetzt Matching Platform (hosted by Joshua)
 
 ## Friday, March 20
-* 10:00-11:10: Using Git with GitHub and other remote repositories (hosted by Sebastian) ❓
+* 10:00-11:10: Using Git with GitHub (hosted by Sebastian)
 * 11:15-12:00: Intro to UX (hosted by Mehmet)
 * 13:00-14:00: Let's Talk about Docker again (hosted by Ben)
 * 14:00-15:00: Mixed Q&A (hosted by Ben and the Gang)
