@@ -40,7 +40,7 @@ Join via https://zoom.us/j/313213335. All plans subject to change.
 ## Tuesday, March 24
 * 10:00-11:00 Tech Session (tba.) ❓
 * 11:15-12:00 Intro to Hardware Projects (hosted by Hendrik and Hamza)
-* 14:00-15:30 Tech Session (tba.) ❓
+* 14:00-15:30 Advanced Shell (hosted by Ben)
 
 ## Wednesday, March 25 
 * 10:00-11:30 Tech Session (tba.) ❓
