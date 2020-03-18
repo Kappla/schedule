@@ -1,19 +1,19 @@
-#Dev.jetzt 01/2020 - Presentations first week
-## Welcome
+# Dev.jetzt 01/2020 - Presentations first week
+### Welcome
 https://gitpitch.com/dev-jetzt/presentations?p=intro/welcome#/
-## Shell basic
+### Shell basic
 https://gitpitch.com/dev-jetzt/presentations?p=shell/basic#/
-## Slides “Setup”:
+### Slides “Setup”:
 https://gitpitch.com/dev-jetzt/presentations?p=intro/setup#/
-## JS Basic
+### JS Basic
 https://gitpitch.com/dev-jetzt/presentations?p=javascript/basic#/
-## All
+### All
 https://gitpitch.com/dev-jetzt/presentations?p=git#/
-## Architecture
+### Architecture
 https://gitpitch.com/dev-jetzt/presentations?p=architecture/intro#/
-## NPM 
+### NPM 
 https://gitpitch.com/dev-jetzt/presentations?p=javascript/npm#/
-## CSS
+### CSS
 https://gitpitch.com/dev-jetzt/presentations?p=react/css#/
 
 
