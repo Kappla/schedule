@@ -82,5 +82,6 @@ https://gitpitch.com/dev-jetzt/presentations?p=javascript/npm#/
 https://gitpitch.com/dev-jetzt/presentations?p=react/css#/
 ### Postgres
 https://gitpitch.com/dev-jetzt/presentations?p=postgres
-
+### ORM
+https://gitpitch.com/dev-jetzt/presentations?p=backend/orm#/
 
