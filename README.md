@@ -35,6 +35,7 @@ Join via https://zoom.us/j/313213335. All plans subject to change.
 ## Monday, March 23
 * 10:00-10:15: Meta (hosted by Joshua)
 * 10:15-12:00: Tech Session (tba.) ❓
+* 12:00-12:30: Employer Q&A: MaibornWolff (hosted by Joshua) 🔒
 * 14:00-15:30: Tech Session (tba.) ❓
 
 ## Tuesday, March 24
@@ -59,6 +60,5 @@ Join via https://zoom.us/j/313213335. All plans subject to change.
 ## Times to be announced
 * Employer introduction & Q&A: eXXcellent solutions
 * Employer introduction & Q&A: KPS
-* Employer Q&A: MaibornWolff
 * Advanced Shell (hosted by Ben)
 * Data Protection (hosted by Joshua)
