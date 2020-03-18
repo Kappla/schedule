@@ -80,4 +80,7 @@ https://gitpitch.com/dev-jetzt/presentations?p=architecture/intro#/
 https://gitpitch.com/dev-jetzt/presentations?p=javascript/npm#/
 ### CSS
 https://gitpitch.com/dev-jetzt/presentations?p=react/css#/
+### Postgres
+https://gitpitch.com/dev-jetzt/presentations?p=postgres
+
 
