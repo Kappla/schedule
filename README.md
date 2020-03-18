@@ -34,7 +34,7 @@ Join via https://zoom.us/j/313213335. All plans subject to change.
 
 ## Monday, March 23
 * 10:00-10:15: Meta (hosted by Joshua)
-* 10:15-12:00: Tech Session (tba.) ❓
+* 10:15-11:50: Tech Session (tba.) ❓
 * 12:00-12:30: Employer Q&A: MaibornWolff (hosted by Joshua) 🔒
 * 14:00-15:30: Tech Session (tba.) ❓
 
