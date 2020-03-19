@@ -52,7 +52,7 @@ Join via https://zoom.us/j/313213335. All plans subject to change.
 
 ## Times to be announced
 * Employer introduction & Q&A: eXXcellent solutions
-* Employer introduction & Q&A: KPS
+* Employer introduction & Q&A: KPS (will happen after the camp)
 
 # Dev.jetzt 01/2020 - Presentations first week
 ### Welcome
