@@ -22,47 +22,37 @@ Join via https://zoom.us/j/313213335. All plans subject to change.
 * 10:00-10:30: TypeORM Exercise Review and Q&A (hosted by Jose)
 * 10:30-12:00: Introduction to NestJS (or "How we brought `cannot read property of undefined` to the backend", hosted by Sebastian)
 * 14:00-14:45: NestJS Exercise Review & Q&A (hosted by Sebastian)
-* 15:00-15:30: Employer introduction & Q&A: AGSOTEC (hosted by Joshua) 🔒
+* 15:00-15:30: Employer introduction & Q&A: AGSOTEC (hosted by Joshua)
 * 15:30-16:00: The Dev.jetzt Matching Platform (hosted by Joshua)
 
 ## Friday, March 20
 * 10:00-11:10: Using Git with GitHub (hosted by Sebastian)
 * 11:15-12:00: Intro to UX (hosted by Mehmet)
-* 13:00-14:00: Let's Talk about Docker again (hosted by Ben)
-* 14:00-15:00: Mixed Q&A (hosted by Ben and the Gang)
-
-
-## Monday, March 23
-* 10:00-10:15: Meta (hosted by Joshua)
-* 10:15-11:50: Tech Session (tba.) ❓
-* 12:00-12:30: Employer Q&A: MaibornWolff (hosted by Joshua) 🔒
-* 14:00-15:30: Tech Session (tba.) ❓
-
-## Tuesday, March 24
-* 10:00-11:00: Postgres Exercise Review + Q/A (hosted by Pascal)
-* 11:15-12:00: Intro to Hardware Projects (hosted by Hendrik and Hamza)
-* 14:00-15:30: Advanced Shell (hosted by Ben)
-
-## Wednesday, March 25 
-* 10:00-11:30: Tech Session (tba.) ❓
-* 11:45-13:00: Tech Session (tba.) ❓
-* 14:30-15:15: Product Ownership (hosted by Daniel)
-* 15:30-16:00: Taking down the tents 🏕
+* 13:00-14:00: Postgres Exercise Review & Q/A (hosted by Pascal)
+* 14:15-15:15: Introduction to Data Protection (hosted by Joshua)
 
 **End of regular sessions**
 
-## Thursday, March 26
-* 10:00-12:00: Open Zoom Channel (free Q&A, hosts tbd.)
-* 14:00-16:00: MacBook returns at mantro office (hosted by Joshua)
+## Monday, March 23
+* 11:00-11:45: Mixed Q&A (host tba.) 
+* 12:00-12:30: Employer Q&A: MaibornWolff (hosted by Joshua)
+* 15:00-16:00: Mixed Q&A (host tba.)
 
-## Friday, March 27
-* 10:00-12:00: Open Zoom Channel (free Q&A, hosts tbd.)
+## Tuesday, March 24
+* 11:00-12:00: Mixed Q&A (host tba.) 
+* 15:00-16:00: Mixed Q&A (host tba.)
+
+## Wednesday, March 25 
+* 11:00-12:00: Mixed Q&A (host tba.) 
+* 16:00-17:00: Mixed Q&A (host tba.)
+
+## Thursday, March 26
+* 10:00-11:00: Packing up (hosted by Joshua) 
+* 14:00-16:00: MacBook returns at mantro office (hosted by Joshua)
 
 ## Times to be announced
 * Employer introduction & Q&A: eXXcellent solutions
 * Employer introduction & Q&A: KPS
-* Advanced Shell (hosted by Ben)
-* Data Protection (hosted by Joshua)
 
 # Dev.jetzt 01/2020 - Presentations first week
 ### Welcome
