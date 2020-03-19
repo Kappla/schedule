@@ -20,7 +20,7 @@ Join via https://zoom.us/j/313213335. All plans subject to change.
 
 ## Thursday, March 19
 * 10:00-10:30: TypeORM Exercise Review and Q&A (hosted by Jose)
-* 10:30-12:00: Introduction to NestJS (or "How we brought `cannot read property of undefined` to the backend", hosted by Sebastian)
+* 10:30-12:30: Introduction to NestJS (or "How we brought `cannot read property of undefined` to the backend", hosted by Sebastian)
 * 14:00-14:45: NestJS Exercise Review & Q&A (hosted by Sebastian)
 * 15:00-15:30: Employer introduction & Q&A: AGSOTEC (hosted by Joshua)
 * 15:30-16:00: The Dev.jetzt Matching Platform (hosted by Joshua)
