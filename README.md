@@ -27,14 +27,14 @@ Join via https://zoom.us/j/313213335. All plans subject to change.
 
 ## Friday, March 20
 * 10:00-11:20: Using Git with GitHub (hosted by Sebastian) ✅
-* 11:30-12:30: Intro to UX (hosted by Mehmet)
-* 13:30-14:30: Postgres Exercise Review & Q/A (hosted by Pascal)
+* 11:30-12:30: Intro to UX (hosted by Mehmet) ✅
+* 13:30-14:30: Postgres Exercise Review & Q/A (hosted by Pascal) ✅
 * 14:30-15:30: Editing a Profile in Dev.jetzt Platform (hosted by Joshua)
 
 **End of regular sessions**
 
 ## Monday, March 23
-* 11:00-11:45: Mixed Q&A (host tba.) 
+* 11:00-11:45: Mixed Q&A (hosted by Joshua) 
 * 12:00-12:30: Employer Q&A: MaibornWolff (hosted by Joshua)
 * 15:00-16:00: Mixed Q&A (host tba.)
 
@@ -47,7 +47,7 @@ Join via https://zoom.us/j/313213335. All plans subject to change.
 * 16:00-17:00: Mixed Q&A (host tba.)
 
 ## Thursday, March 26
-* 10:00-11:00: Packing up (hosted by Joshua) 
+* 10:00-10:30: Packing up (hosted by Joshua) 
 * 14:00-16:00: MacBook returns at mantro office (hosted by Joshua)
 
 ## Times to be announced
