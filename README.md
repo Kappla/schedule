@@ -29,7 +29,7 @@ Join via https://zoom.us/j/313213335. All plans subject to change.
 * 10:00-11:20: Using Git with GitHub (hosted by Sebastian) ✅
 * 11:30-12:30: Intro to UX (hosted by Mehmet) ✅
 * 13:30-14:30: Postgres Exercise Review & Q/A (hosted by Pascal) ✅
-* 14:30-15:30: Editing a Profile in Dev.jetzt Platform (hosted by Joshua)
+* 14:30-15:30: Editing a Profile in Dev.jetzt Platform (hosted by Joshua) ✅
 
 **End of regular sessions**
 
