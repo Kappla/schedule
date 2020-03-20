@@ -22,11 +22,11 @@ Join via https://zoom.us/j/313213335. All plans subject to change.
 * 10:00-10:30: TypeORM Exercise Review and Q&A (hosted by Jose) ✅
 * 10:30-12:30: Introduction to NestJS (or "How we brought `cannot read property of undefined` to the backend", hosted by Sebastian) ✅
 * 14:00-14:45: NestJS Exercise Review & Q&A (hosted by Sebastian) ✅
-* 15:00-15:30: Employer introduction & Q&A: AGSOTEC (hosted by Daniel Mayer of Agsotec and Joshua)
-* 15:30-16:00: The Dev.jetzt Matching Platform (hosted by Joshua)
+* 15:00-15:30: Employer introduction & Q&A: AGSOTEC (hosted by Daniel Mayer of Agsotec and Joshua) ✅
+* 15:30-16:00: The Dev.jetzt Matching Platform (hosted by Joshua) ✅
 
 ## Friday, March 20
-* 10:00-11:10: Using Git with GitHub (hosted by Sebastian)
+* 10:00-11:10: Using Git with GitHub (hosted by Sebastian) ✅
 * 11:15-12:00: Intro to UX (hosted by Mehmet)
 * 13:00-14:00: Postgres Exercise Review & Q/A (hosted by Pascal)
 * 14:15-15:15: Editing a Profile in Dev.jetzt Platform (hosted by Joshua)
