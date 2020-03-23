@@ -39,12 +39,12 @@ Join via https://zoom.us/j/313213335. All plans subject to change.
 * 15:00-16:00: Mixed Q&A (hosted by Pascal)
 
 ## Tuesday, March 24
-* 11:00-12:00: Mixed Q&A (host tba.) 
+* 11:00-12:00: Mixed Q&A (hosted by Sebastian) 
 * 15:00-16:00: Mixed Q&A (hosted by Joshua)
 
 ## Wednesday, March 25 
 * 11:00-12:00: Mixed Q&A (hosted by Joshua) 
-* 15:00-16:00: Mixed Q&A (host tba.)
+* 15:00-16:00: Mixed Q&A (hosted by Ben)
 
 ## Thursday, March 26
 * 10:00-10:30: Packing up (hosted by Joshua)
