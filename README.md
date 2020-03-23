@@ -34,8 +34,8 @@ Join via https://zoom.us/j/313213335. All plans subject to change.
 **End of regular sessions**
 
 ## Monday, March 23
-* 11:00-11:45: Mixed Q&A (hosted by Joshua) 
-* 12:00-12:30: Employer Q&A: MaibornWolff (hosted by Joshua)
+* 11:00-11:45: Mixed Q&A (hosted by Joshua) ✅
+* 12:00-12:30: Employer Q&A: MaibornWolff (hosted by Joshua) ✅
 * 15:00-16:00: Mixed Q&A (hosted by Pascal)
 
 ## Tuesday, March 24
