@@ -77,7 +77,5 @@ https://gitpitch.com/dev-jetzt/presentations?p=backend/orm#/
 https://gitpitch.com/dev-jetzt/presentations?p=backend/nestjs#/
 * Git
 https://gitpitch.com/dev-jetzt/presentations?p=git#/
-* NestJS
-https://gitpitch.com/dev-jetzt/presentations?p=backend/nestjs#/
 
 
