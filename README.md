@@ -13,57 +13,48 @@ Join via https://zoom.us/j/313213335. All plans subject to change.
 * 15:00-16:30: Introduction to Git (hosted by Sebastian) ✅
 
 ## Wednesday, March 18
-* 10:00-10:30: Git Exercise Review and Q&A (hosted by Sebastian)
-* 10:30-12:00: Next steps in Postgres (hosted by Pascal)
-* 14:00-15:30: Introduction to TypeORM (hosted by José)
-* 15:45-17:00: React Q&A (hosted by José and/or Ben) 
+* 10:00-10:30: Git Exercise Review and Q&A (hosted by Sebastian) ✅
+* 10:30-12:00: Next steps in Postgres (hosted by Pascal) ✅
+* 14:00-15:30: Introduction to TypeORM (hosted by José) ✅
+* 15:45-17:00: React Q&A (hosted by Ben) ✅
 
 ## Thursday, March 19
-* 10:00-10:30: TypeORM Exercise Review and Q&A (hosted by Jose)
-* 10:30-12:00: Introduction to NestJS (or "How we brought `cannot read property of undefined` to the backend", hosted by Sebastian)
-* 14:00-14:45: NestJS Exercise Review & Q&A (hosted by Sebastian)
-* 15:00-15:30: Employer introduction & Q&A: AGSOTEC (hosted by Joshua) 🔒
-* 15:30-16:00: The Dev.jetzt Matching Platform (hosted by Joshua)
+* 10:00-10:30: TypeORM Exercise Review and Q&A (hosted by Jose) ✅
+* 10:30-12:30: Introduction to NestJS (or "How we brought `cannot read property of undefined` to the backend", hosted by Sebastian) ✅
+* 14:00-14:45: NestJS Exercise Review & Q&A (hosted by Sebastian) ✅
+* 15:00-15:30: Employer introduction & Q&A: AGSOTEC (hosted by Daniel Mayer of Agsotec and Joshua) ✅
+* 15:30-16:00: The Dev.jetzt Matching Platform (hosted by Joshua) ✅
 
 ## Friday, March 20
-* 10:00-11:10: Using Git with GitHub (hosted by Sebastian)
-* 11:15-12:00: Intro to UX (hosted by Mehmet)
-* 13:00-14:00: Let's Talk about Docker again (hosted by Ben)
-* 14:00-15:00: Mixed Q&A (hosted by Ben and the Gang)
-
-
-## Monday, March 23
-* 10:00-10:15: Meta (hosted by Joshua)
-* 10:15-11:50: Tech Session (tba.) ❓
-* 12:00-12:30: Employer Q&A: MaibornWolff (hosted by Joshua) 🔒
-* 14:00-15:30: Tech Session (tba.) ❓
-
-## Tuesday, March 24
-* 10:00-11:00 Tech Session (tba.) ❓
-* 11:15-12:00 Intro to Hardware Projects (hosted by Hendrik and Hamza)
-* 14:00-15:30 Advanced Shell (hosted by Ben)
-
-## Wednesday, March 25 
-* 10:00-11:30 Tech Session (tba.) ❓
-* 11:45-13:00 Tech Session (tba.) ❓
-* 14:30-15:15: Product Ownership (hosted by Daniel)
+* 10:00-11:20: Using Git with GitHub (hosted by Sebastian) ✅
+* 11:30-12:30: Intro to UX (hosted by Mehmet) ✅
+* 13:30-14:30: Postgres Exercise Review & Q/A (hosted by Pascal) ✅
+* 14:30-15:30: Editing a Profile in Dev.jetzt Platform (hosted by Joshua) ✅
 
 **End of regular sessions**
 
+## Monday, March 23
+* 11:00-11:45: Mixed Q&A (hosted by Joshua) ✅
+* 12:00-12:30: Employer Q&A: MaibornWolff (hosted by Joshua) ✅
+* 15:00-16:00: Mixed Q&A (hosted by Pascal)
+
+## Tuesday, March 24
+* 11:00-12:00: Mixed Q&A (hosted by Sebastian) 
+* 15:00-16:00: Mixed Q&A (hosted by Joshua)
+
+## Wednesday, March 25 
+* 11:00-12:00: Mixed Q&A (hosted by Joshua) 
+* 15:00-16:00: Mixed Q&A (hosted by Ben)
+
 ## Thursday, March 26
-* 10:00-12:00: Open Zoom Channel (free Q&A, hosts tbd.)
+* 10:00-10:30: Packing up (hosted by Joshua)
+* 10:45-11:15: Employer introduction Q&A: eXXcellent solutions (hosted by Joshua)
 * 14:00-16:00: MacBook returns at mantro office (hosted by Joshua)
 
-## Friday, March 27
-* 10:00-12:00: Open Zoom Channel (free Q&A, hosts tbd.)
-
 ## Times to be announced
-* Employer introduction & Q&A: eXXcellent solutions
-* Employer introduction & Q&A: KPS
-* Advanced Shell (hosted by Ben)
-* Data Protection (hosted by Joshua)
+* Employer introduction & Q&A: KPS (will happen after the camp)
 
-# Dev.jetzt 01/2020 - Presentations first week
+# Dev.jetzt 01/2020 - Slides Overview
 ### Welcome
 https://gitpitch.com/dev-jetzt/presentations?p=intro/welcome#/
 ### Shell basic
@@ -86,4 +77,9 @@ https://gitpitch.com/dev-jetzt/presentations?p=postgres
 https://gitpitch.com/dev-jetzt/presentations?p=backend/orm#/
 ### NestJS
 https://gitpitch.com/dev-jetzt/presentations?p=backend/nestjs#/
+### Git
+https://gitpitch.com/dev-jetzt/presentations?p=git#/
+### NestJS
+https://gitpitch.com/dev-jetzt/presentations?p=backend/nestjs#/
+
 
