@@ -55,7 +55,7 @@ Join via https://zoom.us/j/313213335. All plans subject to change.
 * Employer introduction & Q&A: KPS (will happen after the camp)
 
 # Dev.jetzt 01/2020 - Slides Overview
-*Welcome
+* Welcome
 https://gitpitch.com/dev-jetzt/presentations?p=intro/welcome#/
 * Shell basic
 https://gitpitch.com/dev-jetzt/presentations?p=shell/basic#/
