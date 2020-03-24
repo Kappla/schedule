@@ -55,31 +55,29 @@ Join via https://zoom.us/j/313213335. All plans subject to change.
 * Employer introduction & Q&A: KPS (will happen after the camp)
 
 # Dev.jetzt 01/2020 - Slides Overview
-#### Welcome
+*Welcome
 https://gitpitch.com/dev-jetzt/presentations?p=intro/welcome#/
-#### Shell basic
+* Shell basic
 https://gitpitch.com/dev-jetzt/presentations?p=shell/basic#/
-#### Slides “Setup”
+* Slides “Setup”
 https://gitpitch.com/dev-jetzt/presentations?p=intro/setup#/
-#### JS Basic
+* JS Basic
 https://gitpitch.com/dev-jetzt/presentations?p=javascript/basic#/
-#### All
-https://gitpitch.com/dev-jetzt/presentations?p=git#/
-#### Architecture
+* Architecture
 https://gitpitch.com/dev-jetzt/presentations?p=architecture/intro#/
-#### NPM 
+* NPM 
 https://gitpitch.com/dev-jetzt/presentations?p=javascript/npm#/
-#### CSS&React
+* CSS&React
 https://gitpitch.com/dev-jetzt/presentations?p=react/css#/
-#### Postgres
+* Postgres
 https://gitpitch.com/dev-jetzt/presentations?p=postgres
-#### ORM
+* ORM
 https://gitpitch.com/dev-jetzt/presentations?p=backend/orm#/
-#### NestJS
+* NestJS
 https://gitpitch.com/dev-jetzt/presentations?p=backend/nestjs#/
-#### Git
+* Git
 https://gitpitch.com/dev-jetzt/presentations?p=git#/
-#### NestJS
+* NestJS
 https://gitpitch.com/dev-jetzt/presentations?p=backend/nestjs#/
 
 
